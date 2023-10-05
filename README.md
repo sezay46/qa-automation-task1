@@ -14,8 +14,8 @@ To run the tests in the project the following software should be installed on th
 
 #### <u>Cloning the project</u>
 
-+ You can clone the project through HTTPS with the following url: https://gitlab.com/tasks7651940/qa-automation-task1.git
-+ You can clone the project through SSH with the following: git@gitlab.com:tasks7651940/qa-automation-task1.git
++ You can clone the project through HTTPS with the following url: https://github.com/sezay46/qa-automation-task1.git
++ You can clone the project through SSH with the following: git@github.com:sezay46/qa-automation-task1.git
 
 #### <u>Reload gradle project</u>
 
