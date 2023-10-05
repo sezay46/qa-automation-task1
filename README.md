@@ -29,7 +29,9 @@ Also, to be able to use and work with cucumber files the following plugins need 
 
 ## **Test Execution**
 
-+ In the project, to run the tests could be used runner class or directly form feature file.
+In the project, to run the tests could be used runner class or directly form feature file.
++ The runner class is called CucumberTestRunner.class and its path is "src/test/java/runners/CucumberTestRunner.java"
++ The feature file is called SearchCar.feature and its path is "src/test/resources/features/SearchCar.feature"
 
 ## **Reporting**
 
