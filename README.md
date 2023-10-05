@@ -32,6 +32,12 @@ Also, to be able to use and work with cucumber files the following plugins need 
 Problems could occur if the following setting is not set correctly:
 + File -> Settings -> Build, Execution, Deployment -> Build Tools -> Gradle -> Run tests using -> <b>IntelliJ IDEA</b>
 
+## **Tools**
+
++ Cucumber
++ Selenium WebDriver
++ Chrome driver
+
 ## **Test Execution**
 
 In the project, to run the tests could be used runner class or directly form feature file.
